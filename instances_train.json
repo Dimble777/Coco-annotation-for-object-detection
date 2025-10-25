@@ -1,0 +1,112 @@
+{
+    "info": {
+        "description": "Manual COCO Dataset",
+        "version": "1.0"
+    },
+    "licenses": [],
+    "images": [
+        {
+            "id": 1,
+            "file_name": "frame_0000 2.jpg",
+            "width": 1920,
+            "height": 1080
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                1374.0,
+                215.0,
+                160.0,
+                230.0
+            ],
+            "area": 36800.0,
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                1090.0,
+                463.0,
+                245.0,
+                18.0
+            ],
+            "area": 4410.0,
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                804.0,
+                345.0,
+                525.0,
+                59.0
+            ],
+            "area": 30975.0,
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                1213.0,
+                127.0,
+                116.0,
+                218.0
+            ],
+            "area": 25288.0,
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                1329.0,
+                52.0,
+                166.0,
+                293.0
+            ],
+            "area": 48638.0,
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                1191.0,
+                33.0,
+                138.0,
+                312.0
+            ],
+            "area": 43056.0,
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "person",
+            "supercategory": "none"
+        },
+        {
+            "id": 2,
+            "name": "dog",
+            "supercategory": "none"
+        },
+        {
+            "id": 3,
+            "name": "car",
+            "supercategory": "none"
+        }
+    ]
+}
